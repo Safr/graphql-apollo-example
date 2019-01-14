@@ -1,5 +1,5 @@
 {
-  "name": "react-fullstack-basic",
+  "name": "graphql-apollo-example",
   "version": "1.0.0",
   "devDependencies": {
     "babel-eslint": "^10.0.1",
